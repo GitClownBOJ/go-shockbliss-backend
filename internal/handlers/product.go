@@ -1,0 +1,1 @@
+// internal/handlers/product.go

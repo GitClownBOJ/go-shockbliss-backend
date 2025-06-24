@@ -1,0 +1,1 @@
+// internal/models/product.go
